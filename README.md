@@ -1,5 +1,3 @@
-Certainly! Here's an example of a `README.md` file explaining what Global Bans is:
-
 # Global Bans
 
 Global Bans is a system designed to manage and enforce bans for users across multiple platforms or services. It provides a centralized database of banned users, their ban details, and associated punishments. The Global Bans system allows administrators to track and share ban information, ensuring consistent enforcement of penalties across different platforms or services.
@@ -48,5 +46,3 @@ We would like to thank all contributors and supporters who have helped make the 
 - [API Documentation](docs/api.md)
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [License](LICENSE)
-
-Feel free to customize this `README.md` file according to your specific Global Bans implementation, providing more details, instructions, and links as necessary.
