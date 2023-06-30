@@ -22,15 +22,9 @@ To use the Global Bans system, follow these steps:
 Should you find some one that is being a stinky little cheater, record evidance, or use a intergrated anti-cheat that supports GlobalBans,
 For other GlobalBannable stuff, such as racism, Global Bans, automaticly will gather these. Issue Warnings, and ban based on this. This can be disabled in Config.yml
 
+## Licence
 
-
-## Contribution
-
-Contributions to the Global Bans project are welcome! If you have any bug fixes, feature enhancements, or suggestions, please submit a pull request. Before contributing, please review the contribution guidelines to ensure a smooth collaboration process.
-
-## License
-
-The Global Bans project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it according to the terms of the license.
+GlobalBans is under a closed source licence
 
 ## Support
 
